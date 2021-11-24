@@ -37,7 +37,11 @@ namespace Exercise01
     }
 
     class Zoogdier
-    {}
+    {
+
+        public Zoogdier()
+        {}
+    }
 
     class Transportmiddel
     {}
